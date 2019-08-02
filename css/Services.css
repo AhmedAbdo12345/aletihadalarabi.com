@@ -33,7 +33,8 @@ h1.textlogo{ font-size: 40px;   float:right;  padding-top:20px; padding-right:20
 .cont3{background-color:#fff; height: 1850px; width: 300px; 
     margin-top:  10px;float:right; border:solid 1px; border-color:#e5e5e5; }
 
-
+.SEO{background-color:#088de7; height:50px; margin-top:2px; font-family: Lateef; padding-top:5px; color:#fff;}
+.SEO h2:hover{ color: #ddd; }
 
 
 
