@@ -16,12 +16,12 @@ h1.textlogo{ font-size: 40px;   float:right;  padding-top:20px; padding-right:20
 
 
 
-.cont{ background-color:#fff; height:500px; width: 1200px;  padding-right: 7px;
+.cont{ background-color:#fff; height:2600px; width: 1200px;  padding-right: 7px;
     margin:auto; position:relative;}
 
-.cont2{ background-color:#fff; height: 480px; width: 1200px; 
+.cont2{ background-color:#fff; height: 2580px; width: 1200px; 
     margin-top:10px; float:left; font-family: 'Lateef', cursive;
-font-family: 'Tajawal', sans-serif; padding-top:20px; padding-right:20px;}
+font-family: 'Tajawal', sans-serif; padding-top:20px; padding-right:20px; font-size: 20px;}
 
 .cont3{background-color:#AED6F1; height: 60px; width: 1200px; 
     margin-top:  10px; float:left;  border:solid 1px; border-color:#e5e5e5;font-family: 'Lateef', cursive;
@@ -84,7 +84,7 @@ line-height: 40px; text-align: center; font-size: 20px; margin-right: 5px; }
 
 .nav li a{ text-decoration: none; color:black;  }
 
-.nav li a:hover{ color: brown; }
+.nav li a:hover{ color: #fff; }
 
 .nav li:hover ul li{ display: block; }
 
