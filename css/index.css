@@ -30,10 +30,10 @@ h1.textlogo{ font-size: 40px;   float:right;  padding-top:20px; padding-right:20
 .marq{ background-color:#AED6F1; height:30px; width: 1200px; margin: 10px; padding-right: 7px; padding-top: 5px;
     margin-top: 15px; margin:auto; }
 
-.cont{ background-color:#fff; height: 1460px; width: 1200px;  padding-right: 7px;
+.cont{ background-color:#fff; height: 1820px; width: 1200px;  padding-right: 7px;
     margin:auto; position:relative;  }
 
-.cont2{ background-color:#fff; height: 1455px; width: 845px; 
+.cont2{ background-color:#fff; height: 1815px; width: 845px; 
     margin-top:  10px; float:left; margin-left:2px; border:solid 1px; border-color:#e5e5e5; }
 
 .announcement{margin-top:190px; font-family: 'Lateef', cursive;font-size:30px;padding-right:20px;}
@@ -100,7 +100,7 @@ img.abcd{width:100%; height:300px; margin-right:0px;}
 
 video{width:700px;margin-right:70px;}
 
-.cont3{background-color:#fff; height: 1455px; width: 345px; 
+.cont3{background-color:#fff; height: 1815px; width: 345px; 
     margin-top:  10px;float:right; border:solid 1px; border-color:#e5e5e5; }
 
 .SEO{background-color:#088de7; height:50px; margin-top:2px; font-family: Lateef; padding-top:5px; color:#fff;}
