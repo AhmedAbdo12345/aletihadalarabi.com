@@ -1,3 +1,9 @@
+//Rewrite to www
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^aletihadalarabi.com[nc]
+RewriteRule ^(.*)$ https://www.aletihadalarabi.com/$1 [r=301,nc]
+
 <IfModule mod_expires.c>
   ExpiresActive On
 
