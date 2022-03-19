@@ -30,10 +30,10 @@ h1.textlogo{ font-size: 40px;   float:right;  padding-top:20px; padding-right:20
 .marq{ background-color:#AED6F1; height:30px; width: 1200px; margin: 10px; padding-right: 7px; padding-top: 5px;
     margin-top: 15px; margin:auto; }
 
-.cont{ background-color:#fff; height: 1730px; width: 1200px;  padding-right: 7px;
+.cont{ background-color:#fff; height: 1775px; width: 1200px;  padding-right: 7px;
     margin:auto; position:relative;  }
 
-.cont2{ background-color:#fff; height: 1725px; width: 845px; 
+.cont2{ background-color:#fff; height: 1775px; width: 845px; 
     margin-top:  10px; float:left; margin-left:2px; border:solid 1px; border-color:#e5e5e5; }
 
 .announcement{margin-top:190px; font-family: 'Lateef', cursive;font-size:30px;padding-right:20px;}
