@@ -6,28 +6,24 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
- <url>
-  <loc>https://aletihadalarabi.com/index.html</loc>
-  <lastmod>2019-06-25T22:35:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url> 
-       <url>
-  <loc>https://aletihadalarabi.com/</loc>
-  <lastmod>2019-06-25T22:35:48+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-
-<url>
-  <loc>https://aletihadalarabi.com/We.html</loc>
-  <lastmod>2019-06-25T22:35:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://aletihadalarabi.com/Services.html</loc>
-  <lastmod>2019-06-25T22:35:48+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
-
-
+  <url>
+    <loc>https://aletihadalarabi.com</loc>
+    <lastmod>2023-04-26T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://aletihadalarabi.com/We.html</loc>
+    <lastmod>2023-04-25T08:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://aletihadalarabi.com/Services.html</loc>
+    <lastmod>2023-04-24T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+ 
+  
 </urlset>
